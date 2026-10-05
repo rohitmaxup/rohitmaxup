@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohit%20Zunzunwala&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=A855F7)](https://github.com/rohitmaxup)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohit%20Zunzunwala&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=B.tech_CSE%20%7C%20.%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=A855F7)](https://github.com/rohitmaxup)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 
